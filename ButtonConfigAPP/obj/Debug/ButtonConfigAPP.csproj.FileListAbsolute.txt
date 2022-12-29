@@ -1,0 +1,12 @@
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\bin\Debug\ButtonConfigAPP.exe.config
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\bin\Debug\ButtonConfigAPP.exe
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\bin\Debug\ButtonConfigAPP.pdb
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.Form1.resources
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.Layout.resources
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.exe
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\ButtonConfigAPP\obj\Debug\ButtonConfigAPP.pdb

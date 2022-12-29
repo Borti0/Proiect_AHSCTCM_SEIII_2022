@@ -1,0 +1,11 @@
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\bin\Debug\usb_connector.exe.config
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\bin\Debug\usb_connector.exe
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\bin\Debug\usb_connector.pdb
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.csproj.AssemblyReference.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.Form1.resources
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.Properties.Resources.resources
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.csproj.GenerateResource.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.csproj.CoreCompileInputs.cache
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.exe
+C:\Users\Vlad\Desktop\Master_1\Proiect_arhitecturi\ButtonConfigAPP\usb_connector\obj\Debug\usb_connector.pdb
